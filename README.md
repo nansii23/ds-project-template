@@ -5,7 +5,7 @@
    2. <code> brew install cookiecutter </code>
    3. <code> sudo apt-get install cookiecutter </code>
    4. <code> conda install -c conda-forge cookiecutter </code>
-2. Run <code> cookiecutter https://github.com/firatoncu/ds-project-template </code>
+2. Run <code> cookiecutter https://github.com/nansii23/ds-project-template </code>
    1. Follow the instructions and make necessary changes for requested project parameters.
    2. BE SURE THAT generated project slug is the same for gitlab project slug
 3. Initialize a local Git Repository
